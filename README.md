@@ -11,8 +11,6 @@
 
 <h2 align="center">I’m an undergraduate, who finds himself at the top of the innovation, creativity, and possibility iceberg. Yielding many skills in the tech space, I delve in:</h2>
 
-<br/>
-
 <div>
     <ul>
     <li>📚 Building splendid software solutions.</li>
@@ -49,7 +47,6 @@
     <img src="https://skillicons.dev/icons?i=linkedin,gmail,discord"/>
 </p>
 </div>
-
 
 
 <div align="center">
@@ -136,8 +133,6 @@
 </p>
 
 
-
-
 <div align="center">
 
 <h1 align="center">💡 GitHub Stats 💡</h1>
@@ -152,7 +147,6 @@
 </p>
 
 </div>
-
 
 
 <h1 align="center">
