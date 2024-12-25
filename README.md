@@ -8,23 +8,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=4169E1&center=true&vCenter=true&width=550&height=70&lines=I'm+Muaz+Ismail+Mohammed!" /> <br>
 </h1>
 
-<div style="margin: 50px 20px; padding: 20px; border: 2px solid #ccc; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <h2 align="center" style="margin-bottom: 30px; font-size: 24px; line-height: 1.5;">
-        I’m an undergraduate, who finds himself at the top of the innovation, creativity, and possibility iceberg. 
-        Yielding many skills in the tech space.
-    </h2>
-    <hr style="border: none; border-top: 2px solid #eee; margin: 20px auto; width: 80%;" />
-    <div style="margin-top: 30px;">
-        <h3 align="left" style="margin-bottom: 15px; font-size: 20px; font-weight: bold;">I immerse myself in:</h3>
-        <ul style="padding-left: 20px; font-size: 18px; line-height: 1.8;">
-            <li>📚 Building splendid software solutions.</li>
-            <li>👩🏿 Designing Web applications of high quality.</li>
-            <li>🎮 Developing games that make everyone happy.</li>
-            <li>📊 Exploring the realms of data science.</li>
-            <li>🧠 Pushing forward with artificial intelligence and machine learning.</li>
-            <li>🛠️ Crafting efficient algorithms, and mastering data structures.</li>
-        </ul>
-    </div>
+<h2 align="center" style="margin-bottom: 30px; font-size: 24px; line-height: 1.5;">
+    I’m an undergraduate, who finds himself at the top of the innovation, creativity, and possibility iceberg. 
+    Yielding many skills in the tech space.
+</h2>
+
+<div style="margin-top: 30px;">
+    <h3 align="left" style="margin-bottom: 15px; font-size: 20px; font-weight: bold;">I immerse myself in:</h3>
+    <ul style="padding-left: 20px; font-size: 18px; line-height: 1.8;">
+        <li>📚 Building splendid software solutions.</li>
+        <li>👩🏿 Designing Web applications of high quality.</li>
+        <li>🎮 Developing games that make everyone happy.</li>
+        <li>📊 Exploring the realms of data science.</li>
+        <li>🧠 Pushing forward with artificial intelligence and machine learning.</li>
+        <li>🛠️ Crafting efficient algorithms, and mastering data structures.</li>
+    </ul>
 </div>
 
 
