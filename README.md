@@ -8,10 +8,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=4169E1&center=true&vCenter=true&width=550&height=70&lines=I'm+Muaz+Ismail+Mohammed!" /> <br>
 </h1>
 
-
+<div>
 <h2 align="center" style="margin-bottom: 30px;">I’m an undergraduate, who finds himself at the top of the innovation, creativity, and possibility iceberg. Yielding many skills in the tech space, I delve in:</h2>
-
-<br/>
 
 <div>
     <ul>
@@ -50,6 +48,7 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=linkedin,gmail,discord"/>
 </p>
+</div>
 </div>
 
 <div align="center">
