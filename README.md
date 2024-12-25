@@ -11,6 +11,8 @@
 
 <h2 align="center" style="margin-bottom: 30px;">I’m an undergraduate, who finds himself at the top of the innovation, creativity, and possibility iceberg. Yielding many skills in the tech space, I delve in:</h2>
 
+<br/>
+
 <div>
     <ul>
     <li>📚 Building splendid software solutions.</li>
@@ -28,6 +30,8 @@
     </p>
     <p>🔥 Fun fact: <strong>I can spin both my fingers in opposite directions simultaneously!</strong></p>
 </div>
+
+<br/>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -48,8 +52,9 @@
 </p>
 </div>
 
-
 <div align="center">
+
+<br/>
 
 <h1 align="center">⚒️️ Fundamental Languages ⚒️️</h1>
 <p align="center">
