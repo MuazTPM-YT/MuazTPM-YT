@@ -8,15 +8,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=4169E1&center=true&vCenter=true&width=550&height=70&lines=I'm+Muaz+Ismail+Mohammed!" /> <br>
 </h1>
 
+<h2 align="center" style="margin-bottom: 30px;">I’m an undergraduate, who finds himself at the top of the innovation, creativity, and possibility iceberg. Yielding many skills in the tech space.</h2>
+
 <div>
-    <h2 align="center" style="margin-bottom: 30px;">I’m an undergraduate, who finds himself at the top of the innovation, creativity, and possibility iceberg. Yielding many skills in the tech space, I delve in:</h2> <br>
+    <h3 align="left">I immerse myself in:</h3>
     <ul>
     <li>📚 Building splendid software solutions.</li>
     <li>👩🏿 Designing Web applications of high quality.</li>
     <li>🎮 Developing games that make everyone happy.</li>
-    <li>📊 Steep dive into data science.</li>
+    <li>📊 Exploring the realms of data science.</li>
     <li>🧠 Pushing forward with artificial intelligence and machine learning.</li>
-    <li>🛠️ Craft efficient algorithms, and mastered data structures.</li>
+    <li>🛠️ Crafting efficient algorithms, and mastering data structures.</li>
     </ul>
 </div>
 
@@ -153,3 +155,5 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=2500&pause=1000&color=4169E1&center=true&vCenter=true&width=550&height=70&lines=Goodbye+World!+%F0%9F%91%8B" />
 </h1>
+
+</div>
