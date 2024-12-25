@@ -10,17 +10,17 @@
 
 <h2 align="center" style="margin-bottom: 30px;">I’m an undergraduate, who finds himself at the top of the innovation, creativity, and possibility iceberg. Yielding many skills in the tech space.</h2>
 
-
-<h3 align="left">I immerse myself in:</h3>
-<ul>
-<li>📚 Building splendid software solutions.</li>
-<li>👩🏿 Designing Web applications of high quality.</li>
-<li>🎮 Developing games that make everyone happy.</li>
-<li>📊 Exploring the realms of data science.</li>
-<li>🧠 Pushing forward with artificial intelligence and machine learning.</li>
-<li>🛠️ Crafting efficient algorithms, and mastering data structures.</li>
-</ul>
-
+<div style="margin-top: 30px;">
+    <h3 align="left">I immerse myself in:</h3>
+    <ul>
+    <li>📚 Building splendid software solutions.</li>
+    <li>👩🏿 Designing Web applications of high quality.</li>
+    <li>🎮 Developing games that make everyone happy.</li>
+    <li>📊 Exploring the realms of data science.</li>
+    <li>🧠 Pushing forward with artificial intelligence and machine learning.</li>
+    <li>🛠️ Crafting efficient algorithms, and mastering data structures.</li>
+    </ul>
+</div>
 
 <div style="margin-bottom: 30px;">
     <p>
