@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=4169E1&center=true&vCenter=true&width=550&height=70&lines=I'm+Muaz+Ismail+Mohammed!" /> <br>
 </h1>
 
-<hr/>
 
 <h2 align="center">I’m an undergraduate, who finds himself at the top of the innovation, creativity, and possibility iceberg. Yielding many skills in the tech space, I delve in:</h2>
 
@@ -51,7 +50,7 @@
 </p>
 </div>
 
-<hr/>
+
 
 <div align="center">
 
@@ -101,7 +100,7 @@
     </table>
 </div>
 
-<hr/>
+
 <br/>
 <h1 align="center">⚒️ Mobile Application Development ⚒️</h1>
 <p align="center">
@@ -136,7 +135,7 @@
     <img src="https://skillicons.dev/icons?i=webstorm,pycharm,vscode,visualstudio,unity,ae,anaconda,atom,blender,bots,eclipse,figma,notion,ps,pr,pycharm,sublime,windows,replit,stackoverflow"/>
 </p>
 
-<hr/>
+
 
 
 <div align="center">
@@ -154,7 +153,7 @@
 
 </div>
 
-<hr/>
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=2500&pause=1000&color=4169E1&center=true&vCenter=true&width=550&height=70&lines=Goodbye+World!+%F0%9F%91%8B" />
