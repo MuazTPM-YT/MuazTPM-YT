@@ -10,7 +10,7 @@
 
 <div>
 <h2 align="center" style="margin-bottom: 30px;">I’m an undergraduate, who finds himself at the top of the innovation, creativity, and possibility iceberg. Yielding many skills in the tech space, I delve in:</h2>
-<br/>
+<br>
 
 <div>
     <ul>
