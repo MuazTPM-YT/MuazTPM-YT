@@ -159,8 +159,8 @@
     </td>
     <!-- Backend Section -->
     <td align="center" style="padding: 20px;">
-    <div style="text-align: center;">
-      <h2 style="margin: 0; font-size: 20px;">Backend</h2>
+    <div style="text-align: top;">
+      <h2 style="margin-top: 0; font-size: 20px;">Backend</h2>
       <table align="center" style="margin-top: 10px;">
         <tr>
           <td align="center" style="padding: 10px;">
