@@ -158,7 +158,6 @@
     </td>
     <!-- Backend Section -->
     <td align="center" style="vertical-align: top; padding: 20px;">
-    <div align="center">
       <h2>Backend</h2>
       <table align="center">
         <tr>
@@ -189,7 +188,6 @@
             <br>Flask
           </td>
       </table>
-    </div>
   </td>
 
   </tr>
