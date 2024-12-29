@@ -133,15 +133,19 @@
               <br>CSS
             </td>
             <td align="center" style="padding: 20px;">
+              <img src="https://skillicons.dev/icons?i=js" alt="CSS" style="width:50px;"/>
+              <br>JavaScript
+            </td>
+            <td align="center" style="padding: 20px;">
               <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" style="width:50px;"/>
               <br>Bootstrap
             </td>
+          </tr>
+          <tr>
             <td align="center" style="padding: 20px;">
               <img src="https://skillicons.dev/icons?i=react" alt="React" style="width:50px;"/>
               <br>React
             </td>
-          </tr>
-          <tr>
             <td align="center" style="padding: 20px;">
               <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" style="width:50px;"/>
               <br>Next.js
@@ -190,6 +194,10 @@
             <img src="https://skillicons.dev/icons?i=flask" alt="HTML" style="width:50px;">
             <br>Flask
           </td>
+          <td align="center" style="padding: 20px;">
+              <img src="https://skillicons.dev/icons?i=qt" alt="Qt" style="width:50px;"/>
+              <br>Qt
+            </td>
       </table>
     </div>
   </td>
