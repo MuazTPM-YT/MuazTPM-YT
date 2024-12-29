@@ -48,26 +48,25 @@
   </p>
 
   <div style="border-top: 3px;">
-      <h1 align="center">🔗 Connect with me 🔗</h1>
-      <div style="display: flex; justify-content: center; align-items: center; gap: 30px;">
-          <div style="text-align: center;">
-              <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-              <br>
-              <span>LinkedIn</span>
-          </div>
-          <div style="text-align: center;">
-              <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
-              <br>
-              <span>Gmail</span>
-          </div>
-          <div style="text-align: center;">
-              <img src="https://skillicons.dev/icons?i=discord" alt="Discord"/>
-              <br>
-              <span>Discord</span>
-          </div>
-      </div>
-  </div>
-
+    <h1 align="center">🔗 Connect with me 🔗</h1>
+    <div style="display: flex; justify-content: center; align-items: center; gap: 30px;">
+        <div style="text-align: center;">
+            <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+            <br>
+            LinkedIn
+        </div>
+        <div style="text-align: center;">
+            <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+            <br>
+            Gmail
+        </div>
+        <div style="text-align: center;">
+            <img src="https://skillicons.dev/icons?i=discord" alt="Discord"/>
+            <br>
+            Discord
+        </div>
+    </div>
+</div>
 
 
   <div align="center">
@@ -75,43 +74,45 @@
   <br/>
 
   <h1 align="center">⚒️ Fundamental Languages ⚒️</h1>
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
-    <br>
-    JavaScript
-  </div>
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
-    <br>
-    TypeScript
-  </div>
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-    <br>
-    Python
-  </div>
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=c" alt="C" />
-    <br>
-    C
-  </div>
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
-    <br>
-    C#
-  </div>
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
-    <br>
-    C++
-  </div>
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" />
-    <br>
-    Java
-  </div>
-</div>
+  <table align="center" style="border-collapse: collapse; border-spacing: 0;">
+    <tr>
+      <td align="center" style="border: none; padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
+        <br>
+        JavaScript
+      </td>
+      <td align="center" style="border: none; padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
+        <br>
+        TypeScript
+      </td>
+      <td align="center" style="border: none; padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+        <br>
+        Python
+      </td>
+      <td align="center" style="border: none; padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=c" alt="C" />
+        <br>
+        C
+      </td>
+      <td align="center" style="border: none; padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
+        <br>
+        C#
+      </td>
+      <td align="center" style="border: none; padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+        <br>
+        C++
+      </td>
+      <td align="center" style="border: none; padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+        <br>
+        Java
+      </td>
+    </tr>
+  </table>
 
   <br/>
 
