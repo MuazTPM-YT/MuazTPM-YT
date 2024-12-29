@@ -160,7 +160,7 @@
     <!-- Backend Section -->
     <td align="center" style="padding: 20px;">
     <div style="text-align: center;">
-      <h2 style="margin: 0; font-size: 20px;">Backend</h2>
+      <h2>Backend</h2>
       <table align="center" style="margin-top: 10px;">
         <tr>
           <td align="center" style="padding: 10px;">
@@ -180,17 +180,18 @@
             <br>jQuery
           </td>
         </tr>
-        <!-- Dummy Row -->
         <tr>
-          <td colspan="4" align="center" style="padding: 10px;">
-            <!-- Empty row for alignment -->
+          <td align="center" style="padding: 20px;">
+            <img src="https://skillicons.dev/icons?i=java" alt="HTML" style="width:50px;"/>
+            <br>Java
           </td>
-        </tr>
+          <td align="center" style="padding: 20px;">
+            <img src="https://skillicons.dev/icons?i=flask" alt="HTML" style="width:50px;">
+            <br>Flask
+          </td>
       </table>
     </div>
   </td>
-
-
 
   </tr>
   <tr>
