@@ -4,12 +4,12 @@
 
 <div style="font-family: 'Poppins', sans-serif;">
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=4169E1&center=true&vCenter=true&width=500&height=70&lines=Hello+World!+%F0%9F%91%8B" /> <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=4169E1&center=true&vCenter=true&width=550&height=70&lines=I'm+Muaz+Ismail+Mohammed!" /> <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=2000&pause=1000&color=4169E1&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B" /> <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=2000&pause=1000&color=4169E1&center=true&vCenter=true&width=550&lines=I'm+Muaz+Ismail+Mohammed!" /> <br>
 </h1>
 
 <h2 align="center" style="margin-bottom: 30px; font-size: 24px; line-height: 1.5;">
-    I’m an undergraduate, who finds himself at the top of the innovation, creativity, and possibility iceberg. 
+    I’m an undergraduate from India, who finds himself at the top of the innovation, creativity, and possibility iceberg. 
     Yielding many skills in the tech space.
 </h2>
 
@@ -149,15 +149,12 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muaztpm-yt&show_icons=true&locale=en&layout=compact" alt="muaztpm-yt" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muaztpm-yt&show_icons=true&locale=en" alt="muaztpm-yt" />
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muaztpm-yt&" alt="muaztpm-yt" />
-</p>
-
-</div>
-
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=2500&pause=1000&color=4169E1&center=true&vCenter=true&width=550&height=70&lines=Goodbye+World!+%F0%9F%91%8B" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture><h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=2500&pause=1000&color=4169E1&center=true&vCenter=true&width=550&height=70&lines=Goodbye+World!+%F0%9F%91%8B""https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=2000&pause=1000&color=4169E1&center=true&vCenter=true&width=550&lines=Goodbye+World!+%F0%9F%91%8B" />
 </h1>
 
 </div>
