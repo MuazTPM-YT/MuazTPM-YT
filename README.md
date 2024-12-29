@@ -117,118 +117,49 @@
 
 <h1 align="center">⚒️ Tech Stack ⚒️</h1>
 
-<table align="center" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+<table align="center" width="100%">
   <tr>
     <!-- Frontend Section -->
-    <td align="center" style="border: none; padding: 20px; vertical-align: top;">
+    <td align="center" style="vertical-align: top; padding: 20px;">
       <h2>Frontend</h2>
-      <table align="center" style="border-collapse: collapse; border-spacing: 0;">
-        <tr>
-          <td align="center" style="border: none; padding: 10px;">
-            <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-            <br>HTML
-          </td>
-          <td align="center" style="border: none; padding: 10px;">
-            <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-            <br>CSS
-          </td>
-          <td align="center" style="border: none; padding: 10px;">
-            <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
-            <br>Bootstrap
-          </td>
-        </tr>
-        <tr>
-          <td align="center" style="border: none; padding: 10px;">
-            <img src="https://skillicons.dev/icons?i=react" alt="React" />
-            <br>React
-          </td>
-          <td align="center" style="border: none; padding: 10px;">
-            <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
-            <br>Next.js
-          </td>
-          <td align="center" style="border: none; padding: 10px;">
-            <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" />
-            <br>Tailwind
-          </td>
-        </tr>
-        <tr>
-          <td align="center" colspan="3" style="border: none; padding: 10px;">
-            <img src="https://skillicons.dev/icons?i=qt" alt="Qt" />
-            <br>Qt
-          </td>
-        </tr>
-      </table>
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML" style="width:50px;"/>
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS" style="width:50px;"/>
+      <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" style="width:50px;"/>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=react" alt="React" style="width:50px;"/>
+      <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" style="width:50px;"/>
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" style="width:50px;"/>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=qt" alt="Qt" style="width:50px;"/>
     </td>
     <!-- Backend Section -->
-    <td align="center" style="border: none; padding: 20px; vertical-align: top;">
+    <td align="center" style="vertical-align: top; padding: 20px;">
       <h2>Backend</h2>
-      <table align="center" style="border-collapse: collapse; border-spacing: 0;">
-        <tr>
-          <td align="center" style="border: none; padding: 10px;">
-            <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-            <br>Node.js
-          </td>
-          <td align="center" style="border: none; padding: 10px;">
-            <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
-            <br>Next.js
-          </td>
-          <td align="center" style="border: none; padding: 10px;">
-            <img src="https://skillicons.dev/icons?i=django" alt="Django" />
-            <br>Django
-          </td>
-        </tr>
-        <tr>
-          <td align="center" colspan="3" style="border: none; padding: 10px;">
-            <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" />
-            <br>jQuery
-          </td>
-        </tr>
-      </table>
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" style="width:50px;"/>
+      <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" style="width:50px;"/>
+      <img src="https://skillicons.dev/icons?i=django" alt="Django" style="width:50px;"/>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" style="width:50px;"/>
     </td>
   </tr>
   <tr>
     <!-- Databases Section -->
-    <td align="center" style="border: none; padding: 20px; vertical-align: top;">
+    <td align="center" style="vertical-align: top; padding: 20px;">
       <h2>Databases</h2>
-      <table align="center" style="border-collapse: collapse; border-spacing: 0;">
-        <tr>
-          <td align="center" style="border: none; padding: 10px;">
-            <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
-            <br>MongoDB
-          </td>
-          <td align="center" style="border: none; padding: 10px;">
-            <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
-            <br>SQLite
-          </td>
-          <td align="center" style="border: none; padding: 10px;">
-            <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-            <br>MySQL
-          </td>
-        </tr>
-      </table>
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" style="width:50px;"/>
+      <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" style="width:50px;"/>
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" style="width:50px;"/>
     </td>
     <!-- Cloud Services Section -->
-    <td align="center" style="border: none; padding: 20px; vertical-align: top;">
+    <td align="center" style="vertical-align: top; padding: 20px;">
       <h2>Cloud Services</h2>
-      <table align="center" style="border-collapse: collapse; border-spacing: 0;">
-        <tr>
-          <td align="center" style="border: none; padding: 10px;">
-            <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
-            <br>AWS
-          </td>
-          <td align="center" style="border: none; padding: 10px;">
-            <img src="https://skillicons.dev/icons?i=azure" alt="Azure" />
-            <br>Azure
-          </td>
-          <td align="center" style="border: none; padding: 10px;">
-            <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
-            <br>Firebase
-          </td>
-        </tr>
-      </table>
+      <img src="https://skillicons.dev/icons?i=aws" alt="AWS" style="width:50px;"/>
+      <img src="https://skillicons.dev/icons?i=azure" alt="Azure" style="width:50px;"/>
+      <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" style="width:50px;"/>
     </td>
   </tr>
 </table>
+
 
 
 <h1 align="center">⚒️ Mobile Application Development ⚒️</h1>
