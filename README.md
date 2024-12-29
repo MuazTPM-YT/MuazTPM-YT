@@ -74,45 +74,46 @@
 
   <br/>
 
- <h1 align="center">⚒️ Fundamental Languages ⚒️</h1>
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-    <div style="text-align: center;">
+`  <h1 align="center">⚒️ Fundamental Languages ⚒️</h1>
+  <table align="center">
+    <tr>
+      <td align="center">
         <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
         <br>
-        <span>JavaScript</span>
-    </div>
-    <div style="text-align: center;">
+        JavaScript
+      </td>
+      <td align="center">
         <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
         <br>
-        <span>TypeScript</span>
-    </div>
-    <div style="text-align: center;">
+        TypeScript
+      </td>
+      <td align="center">
         <img src="https://skillicons.dev/icons?i=python" alt="Python" />
         <br>
-        <span>Python</span>
-    </div>
-    <div style="text-align: center;">
+        Python
+      </td>
+      <td align="center">
         <img src="https://skillicons.dev/icons?i=c" alt="C" />
         <br>
-        <span>C</span>
-    </div>
-    <div style="text-align: center;">
+        C
+      </td>
+      <td align="center">
         <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
         <br>
-        <span>C#</span>
-    </div>
-    <div style="text-align: center;">
+        C#
+      </td>
+      <td align="center">
         <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
         <br>
-        <span>C++</span>
-    </div>
-    <div style="text-align: center;">
+        C++
+      </td>
+      <td align="center">
         <img src="https://skillicons.dev/icons?i=java" alt="Java" />
         <br>
-        <span>Java</span>
-    </div>
-</div>
-
+        Java
+      </td>
+    </tr>
+  </table>`
 
   <br/>
 
@@ -439,8 +440,6 @@
         <span>StackOverflow</span>
     </div>
 </div>
-
-
 
   <div align="center">
 
