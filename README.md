@@ -17,7 +17,7 @@
     <h3 align="left" style="margin-bottom: 15px; font-size: 20px; font-weight: bold;">I immerse myself in:</h3>
     <ul style="padding-left: 20px; font-size: 18px; line-height: 1.8;">
         <li>📚 Building splendid software solutions.</li>
-        <li>👩🏿 Designing Web applications of high quality.</li>
+        <li>👩🏿 Designing web applications of high quality.</li>
         <li>🎮 Developing games that make everyone happy.</li>
         <li>📊 Exploring the realms of data science.</li>
         <li>🧠 Pushing forward with artificial intelligence and machine learning.</li>
