@@ -75,46 +75,43 @@
   <br/>
 
   <h1 align="center">⚒️ Fundamental Languages ⚒️</h1>
-  <table align="center" style="border-collapse: collapse; border: none;">
-    <tr>
-      <td align="center" style="border: none; padding: 10px;">
-        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
-        <br>
-        JavaScript
-      </td>
-      <td align="center" style="border: none; padding: 10px;">
-        <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
-        <br>
-        TypeScript
-      </td>
-      <td align="center" style="border: none; padding: 10px;">
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-        <br>
-        Python
-      </td>
-      <td align="center" style="border: none; padding: 10px;">
-        <img src="https://skillicons.dev/icons?i=c" alt="C" />
-        <br>
-        C
-      </td>
-      <td align="center" style="border: none; padding: 10px;">
-        <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
-        <br>
-        C#
-      </td>
-      <td align="center" style="border: none; padding: 10px;">
-        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
-        <br>
-        C++
-      </td>
-      <td align="center" style="border: none; padding: 10px;">
-        <img src="https://skillicons.dev/icons?i=java" alt="Java" />
-        <br>
-        Java
-      </td>
-    </tr>
-  </table>
-
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <div style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
+    <br>
+    JavaScript
+  </div>
+  <div style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
+    <br>
+    TypeScript
+  </div>
+  <div style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+    <br>
+    Python
+  </div>
+  <div style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=c" alt="C" />
+    <br>
+    C
+  </div>
+  <div style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
+    <br>
+    C#
+  </div>
+  <div style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+    <br>
+    C++
+  </div>
+  <div style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+    <br>
+    Java
+  </div>
+</div>
 
   <br/>
 
