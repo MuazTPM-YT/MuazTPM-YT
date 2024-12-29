@@ -380,8 +380,6 @@
       <br>
       Visual Studio
     </td>
-  </tr>
-  <tr>
     <td align="center" style="border: none; padding: 20px;">
       <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" />
       <br>
@@ -402,13 +400,13 @@
       <br>
       Bots
     </td>
+  </tr>
+  <tr>
     <td align="center" style="border: none; padding: 20px;">
       <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" />
       <br>
       Eclipse
     </td>
-  </tr>
-  <tr>
     <td align="center" style="border: none; padding: 20px;">
       <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
       <br>
@@ -434,8 +432,6 @@
       <br>
       After Effects
     </td>
-  </tr>
-  <tr>
     <td align="center" style="border: none; padding: 20px;">
       <img src="https://skillicons.dev/icons?i=sublime" alt="Sublime Text" />
       <br>
@@ -451,33 +447,23 @@
       <br>
       Replit
     </td>
-    <td align="center" style="border: none; padding: 20px;">
-      <img src="https://skillicons.dev/icons?i=stackoverflow" alt="StackOverflow" />
-      <br>
-      StackOverflow
-    </td>
   </tr>
 </table>
 
 
   <div align="center">
-
-  <h1 align="center">💡 GitHub Stats 💡</h1>
-
-
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muaztpm-yt&show_icons=true&locale=en&layout=compact" alt="muaztpm-yt" />&nbsp;
-  </p>
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=muaztpm-yt&show_icons=true&locale=en" alt="muaztpm-yt" />
-  </p>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  </picture><h1 align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=2500&pause=1000&color=4169E1&center=true&vCenter=true&width=550&height=70&lines=Goodbye+World!+%F0%9F%91%8B""https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=2000&pause=1000&color=4169E1&center=true&vCenter=true&width=550&lines=Goodbye+World!+%F0%9F%91%8B" />
-  </h1>
-
+    <h1 align="center">💡 GitHub Stats 💡</h1>
+    <p align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muaztpm-yt&show_icons=true&locale=en&layout=compact" alt="muaztpm-yt" />&nbsp;
+    </p>
+    <p align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=muaztpm-yt&show_icons=true&locale=en" alt="muaztpm-yt" />
+    </p>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+      <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+    </picture><h1 align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=2500&pause=1000&color=4169E1&center=true&vCenter=true&width=550&height=70&lines=Goodbye+World!+%F0%9F%91%8B""https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=2000&pause=1000&color=4169E1&center=true&vCenter=true&width=550&lines=Goodbye+World!+%F0%9F%91%8B" />
+    </h1>
 </div>
