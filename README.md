@@ -10,11 +10,10 @@
 
   <h2 align="center" style="margin-bottom: 30px; font-size: 24px; line-height: 1.5;">
       I’m an undergraduate from India, who finds himself at the top of the innovation, creativity, and possibility iceberg. 
-      Yielding many skills in the tech space.
   </h2>
 
   <div style="margin-top: 30px;">
-      <h3 align="left" style="margin-bottom: 15px; font-size: 20px; font-weight: bold;">I immerse myself in:</h3>
+      <h3 align="left" style="margin-bottom: 15px; font-size: 20px; font-weight: bold;">Here are the things I love doing:</h3>
       <ul style="padding-left: 20px; font-size: 18px; line-height: 1.8;">
           <li>📚 Building splendid software solutions.</li>
           <li>👩🏿 Designing web applications of high quality.</li>
