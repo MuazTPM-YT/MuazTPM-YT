@@ -158,7 +158,7 @@
       </table>
     </td>
     <!-- Backend Section -->
-    <td align="top" style="vertical-align: top; padding: 20px;">
+    <td align="center" style="vertical-align: top; padding: 20px;">
       <h2>Backend</h2>
       <table align="center">
         <tr>
