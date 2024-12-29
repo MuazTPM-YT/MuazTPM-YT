@@ -47,27 +47,26 @@
     <img src="https://komarev.com/ghpvc/?username=muaztpm-yt&label=Profile%20views&color=0e75b6&style=flat" alt="muaztpm-yt" />
   </p>
 
-  <div style="border-top: 3px;">
-    <h1 align="center">🔗 Connect with me 🔗</h1>
-    <div style="display: flex; justify-content: center; align-items: center; gap: 30px;">
-        <div style="text-align: center;">
-            <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-            <br>
-            LinkedIn
-        </div>
-        <div style="text-align: center;">
-            <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
-            <br>
-            Gmail
-        </div>
-        <div style="text-align: center;">
-            <img src="https://skillicons.dev/icons?i=discord" alt="Discord"/>
-            <br>
-            Discord
-        </div>
-    </div>
-</div>
-
+  <h1 align="center">🔗 Connect with Me 🔗</h1>
+  <table align="center" style="border-collapse: collapse; border-spacing: 0;">
+    <tr>
+      <td align="center" style="border: none; padding: 20px;">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+        <br>
+        LinkedIn
+      </td>
+      <td align="center" style="border: none; padding: 20px;">
+        <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+        <br>
+        Gmail
+      </td>
+      <td align="center" style="border: none; padding: 20px;">
+        <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+        <br>
+        Discord
+      </td>
+    </tr>
+  </table>
 
   <div align="center">
 
@@ -76,37 +75,37 @@
   <h1 align="center">⚒️ Fundamental Languages ⚒️</h1>
   <table align="center" style="border-collapse: collapse; border-spacing: 0;">
     <tr>
-      <td align="center" style="border: none; padding: 10px;">
+      <td align="center" style="border: none; padding: 20px;">
         <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
         <br>
         JavaScript
       </td>
-      <td align="center" style="border: none; padding: 10px;">
+      <td align="center" style="border: none; padding: 20px;">
         <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
         <br>
         TypeScript
       </td>
-      <td align="center" style="border: none; padding: 10px;">
+      <td align="center" style="border: none; padding: 20px;">
         <img src="https://skillicons.dev/icons?i=python" alt="Python" />
         <br>
         Python
       </td>
-      <td align="center" style="border: none; padding: 10px;">
+      <td align="center" style="border: none; padding: 20px;">
         <img src="https://skillicons.dev/icons?i=c" alt="C" />
         <br>
         C
       </td>
-      <td align="center" style="border: none; padding: 10px;">
+      <td align="center" style="border: none; padding: 20px;">
         <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
         <br>
         C#
       </td>
-      <td align="center" style="border: none; padding: 10px;">
+      <td align="center" style="border: none; padding: 20px;">
         <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
         <br>
         C++
       </td>
-      <td align="center" style="border: none; padding: 10px;">
+      <td align="center" style="border: none; padding: 20px;">
         <img src="https://skillicons.dev/icons?i=java" alt="Java" />
         <br>
         Java
@@ -116,329 +115,332 @@
 
   <br/>
 
-  <table>
-    <tr>
-        <td align="center">
-            <h1 align="center">⚒️ Frontend ⚒️</h1>
-        </td>
-        <td align="center">
-            <h1 align="center">⚒️ Backend ⚒️</h1>
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-                <div style="text-align: center;">
-                    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-                    <br>
-                    <span>HTML</span>
-                </div>
-                <div style="text-align: center;">
-                    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-                    <br>
-                    <span>CSS</span>
-                </div>
-                <div style="text-align: center;">
-                    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
-                    <br>
-                    <span>Bootstrap</span>
-                </div>
-                <div style="text-align: center;">
-                    <img src="https://skillicons.dev/icons?i=react" alt="React" />
-                    <br>
-                    <span>React</span>
-                </div>
-                <div style="text-align: center;">
-                    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
-                    <br>
-                    <span>Next.js</span>
-                </div>
-                <div style="text-align: center;">
-                    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" />
-                    <br>
-                    <span>Tailwind</span>
-                </div>
-                <div style="text-align: center;">
-                    <img src="https://skillicons.dev/icons?i=qt" alt="Qt" />
-                    <br>
-                    <span>Qt</span>
-                </div>
-            </div>
-        </td>
-        <td align="center">
-            <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-                <div style="text-align: center;">
-                    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-                    <br>
-                    <span>Node.js</span>
-                </div>
-                <div style="text-align: center;">
-                    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
-                    <br>
-                    <span>Next.js</span>
-                </div>
-                <div style="text-align: center;">
-                    <img src="https://skillicons.dev/icons?i=django" alt="Django" />
-                    <br>
-                    <span>Django</span>
-                </div>
-                <div style="text-align: center;">
-                    <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" />
-                    <br>
-                    <span>jQuery</span>
-                </div>
-            </div>
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <h1 align="center">⚒️ Databases ⚒️</h1>
-        </td>
-        <td align="center">
-            <h1 align="center">⚒️ Cloud Services ⚒️</h1>
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <div style="display: flex; justify-content: center; gap: 20px;">
-                <div style="text-align: center;">
-                    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
-                    <br>
-                    <span>MongoDB</span>
-                </div>
-                <div style="text-align: center;">
-                    <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
-                    <br>
-                    <span>SQLite</span>
-                </div>
-                <div style="text-align: center;">
-                    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-                    <br>
-                    <span>MySQL</span>
-                </div>
-            </div>
-        </td>
-        <td align="center">
-            <div style="display: flex; justify-content: center; gap: 20px;">
-                <div style="text-align: center;">
-                    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
-                    <br>
-                    <span>AWS</span>
-                </div>
-                <div style="text-align: center;">
-                    <img src="https://skillicons.dev/icons?i=azure" alt="Azure" />
-                    <br>
-                    <span>Azure</span>
-                </div>
-                <div style="text-align: center;">
-                    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
-                    <br>
-                    <span>Firebase</span>
-                </div>
-            </div>
-        </td>
-    </tr>
+  <table align="center" style="border-collapse: collapse; border-spacing: 0;">
+  <tr>
+    <td align="center" style="border: none; padding: 20px;">
+      <h1 align="center">⚒️ Frontend ⚒️</h1>
+      <table align="center" style="border-collapse: collapse; border-spacing: 0;">
+        <tr>
+          <td align="center" style="border: none; padding: 10px;">
+            <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+            <br>HTML
+          </td>
+          <td align="center" style="border: none; padding: 10px;">
+            <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+            <br>CSS
+          </td>
+          <td align="center" style="border: none; padding: 10px;">
+            <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
+            <br>Bootstrap
+          </td>
+        </tr>
+        <tr>
+          <td align="center" style="border: none; padding: 10px;">
+            <img src="https://skillicons.dev/icons?i=react" alt="React" />
+            <br>React
+          </td>
+          <td align="center" style="border: none; padding: 10px;">
+            <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
+            <br>Next.js
+          </td>
+          <td align="center" style="border: none; padding: 10px;">
+            <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" />
+            <br>Tailwind
+          </td>
+        </tr>
+        <tr>
+          <td align="center" style="border: none; padding: 10px;">
+            <img src="https://skillicons.dev/icons?i=qt" alt="Qt" />
+            <br>Qt
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td align="center" style="border: none; padding: 20px;">
+      <h1 align="center">⚒️ Backend ⚒️</h1>
+      <table align="center" style="border-collapse: collapse; border-spacing: 0;">
+        <tr>
+          <td align="center" style="border: none; padding: 10px;">
+            <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+            <br>Node.js
+          </td>
+          <td align="center" style="border: none; padding: 10px;">
+            <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
+            <br>Next.js
+          </td>
+          <td align="center" style="border: none; padding: 10px;">
+            <img src="https://skillicons.dev/icons?i=django" alt="Django" />
+            <br>Django
+          </td>
+        </tr>
+        <tr>
+          <td align="center" style="border: none; padding: 10px;">
+            <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" />
+            <br>jQuery
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border: none; padding: 20px;">
+      <h1 align="center">⚒️ Databases ⚒️</h1>
+      <table align="center" style="border-collapse: collapse; border-spacing: 0;">
+        <tr>
+          <td align="center" style="border: none; padding: 10px;">
+            <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+            <br>MongoDB
+          </td>
+          <td align="center" style="border: none; padding: 10px;">
+            <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
+            <br>SQLite
+          </td>
+          <td align="center" style="border: none; padding: 10px;">
+            <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+            <br>MySQL
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td align="center" style="border: none; padding: 20px;">
+      <h1 align="center">⚒️ Cloud Services ⚒️</h1>
+      <table align="center" style="border-collapse: collapse; border-spacing: 0;">
+        <tr>
+          <td align="center" style="border: none; padding: 10px;">
+            <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
+            <br>AWS
+          </td>
+          <td align="center" style="border: none; padding: 10px;">
+            <img src="https://skillicons.dev/icons?i=azure" alt="Azure" />
+            <br>Azure
+          </td>
+          <td align="center" style="border: none; padding: 10px;">
+            <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
+            <br>Firebase
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 </table>
 
+
 <h1 align="center">⚒️ Mobile Application Development ⚒️</h1>
-<div style="display: flex; justify-content: center; gap: 20px;">
-    <div style="text-align: center;">
-        <img src="https://skillicons.dev/icons?i=dart" alt="Dart" />
-        <br>
-        <span>Dart</span>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
-        <br>
-        <span>Flutter</span>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
-        <br>
-        <span>Kotlin</span>
-    </div>
-</div>
+<table align="center" style="border-collapse: collapse; border-spacing: 0;">
+  <tr>
+    <td align="center" style="border: none; padding: 20px;">
+      <img src="https://skillicons.dev/icons?i=dart" alt="Dart" />
+      <br>
+      Dart
+    </td>
+    <td align="center" style="border: none; padding: 20px;">
+      <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
+      <br>
+      Flutter
+    </td>
+    <td align="center" style="border: none; padding: 20px;">
+      <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
+      <br>
+      Kotlin
+    </td>
+  </tr>
+</table>
 
 <h1 align="center">⚒️ Machine Learning ⚒️</h1>
-<div style="display: flex; justify-content: center; gap: 20px;">
-    <div style="text-align: center;">
-        <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />
-        <br>
-        <span>PyTorch</span>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" />
-        <br>
-        <span>OpenCV</span>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" />
-        <br>
-        <span>TensorFlow</span>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" />
-        <br>
-        <span>scikit-learn</span>
-    </div>
-</div>
+<table align="center" style="border-collapse: collapse; border-spacing: 0;">
+  <tr>
+    <td align="center" style="border: none; padding: 20px;">
+      <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />
+      <br>
+      PyTorch
+    </td>
+    <td align="center" style="border: none; padding: 20px;">
+      <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" />
+      <br>
+      OpenCV
+    </td>
+    <td align="center" style="border: none; padding: 20px;">
+      <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" />
+      <br>
+      TensorFlow
+    </td>
+    <td align="center" style="border: none; padding: 20px;">
+      <img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" />
+      <br>
+      scikit-learn
+    </td>
+  </tr>
+</table>
 
 <h1 align="center">⚒️ Game Development ⚒️</h1>
-<div style="display: flex; justify-content: center; gap: 20px;">
-    <div style="text-align: center;">
-        <img src="https://skillicons.dev/icons?i=unity" alt="Unity" />
-        <br>
-        <span>Unity</span>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://skillicons.dev/icons?i=lua" alt="Lua" />
-        <br>
-        <span>Lua</span>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://skillicons.dev/icons?i=robloxstudio" alt="Roblox Studio" />
-        <br>
-        <span>Roblox Studio</span>
-    </div>
-</div>
+<table align="center" style="border-collapse: collapse; border-spacing: 0;">
+  <tr>
+    <td align="center" style="border: none; padding: 20px;">
+      <img src="https://skillicons.dev/icons?i=unity" alt="Unity" />
+      <br>
+      Unity
+    </td>
+    <td align="center" style="border: none; padding: 20px;">
+      <img src="https://skillicons.dev/icons?i=lua" alt="Lua" />
+      <br>
+      Lua
+    </td>
+    <td align="center" style="border: none; padding: 20px;">
+      <img src="https://skillicons.dev/icons?i=robloxstudio" alt="Roblox Studio" />
+      <br>
+      Roblox Studio
+    </td>
+  </tr>
+</table>
 
 <h1 align="center">⚒️ Maintenance and Operational Tools ⚒️</h1>
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-    <div style="text-align: center;">
-        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
-        <br>
-        <span>Docker</span>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-        <br>
-        <span>GitHub</span>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-        <br>
-        <span>Git</span>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" />
-        <br>
-        <span>PowerShell</span>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://skillicons.dev/icons?i=npm" alt="NPM" />
-        <br>
-        <span>NPM</span>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" />
-        <br>
-        <span>Arduino</span>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
-        <br>
-        <span>Bash</span>
-    </div>
-</div>
+<table align="center" style="border-collapse: collapse; border-spacing: 0;">
+  <tr>
+    <td align="center" style="border: none; padding: 20px;">
+      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+      <br>
+      Docker
+    </td>
+    <td align="center" style="border: none; padding: 20px;">
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+      <br>
+      GitHub
+    </td>
+    <td align="center" style="border: none; padding: 20px;">
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+      <br>
+      Git
+    </td>
+    <td align="center" style="border: none; padding: 20px;">
+      <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" />
+      <br>
+      PowerShell
+    </td>
+    <td align="center" style="border: none; padding: 20px;">
+      <img src="https://skillicons.dev/icons?i=npm" alt="NPM" />
+      <br>
+      NPM
+    </td>
+    <td align="center" style="border: none; padding: 20px;">
+      <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" />
+      <br>
+      Arduino
+    </td>
+    <td align="center" style="border: none; padding: 20px;">
+      <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
+      <br>
+      Bash
+    </td>
+  </tr>
+</table>
 
 <h1 align="center">⚒️ Mastery of Diverse Software and Tools ⚒️</h1>
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-    <div style="text-align: center;">
-        <img src="https://skillicons.dev/icons?i=webstorm" alt="WebStorm" />
-        <br>
-        <span>WebStorm</span>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" />
-        <br>
-        <span>PyCharm</span>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://skillicons.dev/icons?i=idea" alt="PyCharm" />
-        <br>
-        <span>IntelliJ IDEA</span>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
-        <br>
-        <span>VS Code</span>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" />
-        <br>
-        <span>Visual Studio</span>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" />
-        <br>
-        <span>Anaconda</span>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://skillicons.dev/icons?i=atom" alt="Atom" />
-        <br>
-        <span>Atom</span>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://skillicons.dev/icons?i=blender" alt="Blender" />
-        <br>
-        <span>Blender</span>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://skillicons.dev/icons?i=bots" alt="Bots" />
-        <br>
-        <span>Bots</span>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" />
-        <br>
-        <span>Eclipse</span>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
-        <br>
-        <span>Figma</span>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://skillicons.dev/icons?i=notion" alt="Notion" />
-        <br>
-        <span>Notion</span>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" />
-        <br>
-        <span>Photoshop</span>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://skillicons.dev/icons?i=pr" alt="Premiere Pro" />
-        <br>
-        <span>Premiere Pro</span>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://skillicons.dev/icons?i=ae" alt="After Effects" />
-        <br>
-        <span>After Effects</span>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://skillicons.dev/icons?i=sublime" alt="Sublime Text" />
-        <br>
-        <span>Sublime Text</span>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://skillicons.dev/icons?i=windows" alt="Windows" />
-        <br>
-        <span>Windows</span>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://skillicons.dev/icons?i=replit" alt="Replit" />
-        <br>
-        <span>Replit</span>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://skillicons.dev/icons?i=stackoverflow" alt="StackOverflow" />
-        <br>
-        <span>StackOverflow</span>
-    </div>
-</div>
+<table align="center" style="border-collapse: collapse; border-spacing: 0;">
+  <tr>
+    <td align="center" style="border: none; padding: 20px;">
+      <img src="https://skillicons.dev/icons?i=webstorm" alt="WebStorm" />
+      <br>
+      WebStorm
+    </td>
+    <td align="center" style="border: none; padding: 20px;">
+      <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" />
+      <br>
+      PyCharm
+    </td>
+    <td align="center" style="border: none; padding: 20px;">
+      <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" />
+      <br>
+      IntelliJ IDEA
+    </td>
+    <td align="center" style="border: none; padding: 20px;">
+      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+      <br>
+      VS Code
+    </td>
+    <td align="center" style="border: none; padding: 20px;">
+      <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" />
+      <br>
+      Visual Studio
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border: none; padding: 20px;">
+      <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" />
+      <br>
+      Anaconda
+    </td>
+    <td align="center" style="border: none; padding: 20px;">
+      <img src="https://skillicons.dev/icons?i=atom" alt="Atom" />
+      <br>
+      Atom
+    </td>
+    <td align="center" style="border: none; padding: 20px;">
+      <img src="https://skillicons.dev/icons?i=blender" alt="Blender" />
+      <br>
+      Blender
+    </td>
+    <td align="center" style="border: none; padding: 20px;">
+      <img src="https://skillicons.dev/icons?i=bots" alt="Bots" />
+      <br>
+      Bots
+    </td>
+    <td align="center" style="border: none; padding: 20px;">
+      <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" />
+      <br>
+      Eclipse
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border: none; padding: 20px;">
+      <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+      <br>
+      Figma
+    </td>
+    <td align="center" style="border: none; padding: 20px;">
+      <img src="https://skillicons.dev/icons?i=notion" alt="Notion" />
+      <br>
+      Notion
+    </td>
+    <td align="center" style="border: none; padding: 20px;">
+      <img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" />
+      <br>
+      Photoshop
+    </td>
+    <td align="center" style="border: none; padding: 20px;">
+      <img src="https://skillicons.dev/icons?i=pr" alt="Premiere Pro" />
+      <br>
+      Premiere Pro
+    </td>
+    <td align="center" style="border: none; padding: 20px;">
+      <img src="https://skillicons.dev/icons?i=ae" alt="After Effects" />
+      <br>
+      After Effects
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border: none; padding: 20px;">
+      <img src="https://skillicons.dev/icons?i=sublime" alt="Sublime Text" />
+      <br>
+      Sublime Text
+    </td>
+    <td align="center" style="border: none; padding: 20px;">
+      <img src="https://skillicons.dev/icons?i=windows" alt="Windows" />
+      <br>
+      Windows
+    </td>
+    <td align="center" style="border: none; padding: 20px;">
+      <img src="https://skillicons.dev/icons?i=replit" alt="Replit" />
+      <br>
+      Replit
+    </td>
+    <td align="center" style="border: none; padding: 20px;">
+      <img src="https://skillicons.dev/icons?i=stackoverflow" alt="StackOverflow" />
+      <br>
+      StackOverflow
+    </td>
+  </tr>
+</table>
+
 
   <div align="center">
 
