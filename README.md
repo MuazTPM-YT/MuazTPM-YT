@@ -71,7 +71,7 @@
 
   <br/>
 
-  <h1 align="center">⚒️ Fundamental Languages ⚒️</h1>
+  <h1 align="center">⚒️ Languages I Code In ⚒️</h1>
   <table align="center" style="border-collapse: collapse; border-spacing: 0;">
     <tr>
       <td align="center" style="border: none; padding: 20px;">
@@ -157,24 +157,24 @@
       </table>
     </td>
     <!-- Backend Section -->
-    <td align="center" style="padding: 20px;">
-    <div style="text-align: center;">
+    <td align="center" style="vertical-align: top; padding: 20px;">
+    <div align="center">
       <h2>Backend</h2>
-      <table align="center" style="margin-top: 10px;">
+      <table align="center">
         <tr>
-          <td align="center" style="padding: 10px;">
+          <td align="center" style="padding: 20px;">
             <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" style="width:50px;" />
             <br>Node.js
           </td>
-          <td align="center" style="padding: 10px;">
+          <td align="center" style="padding: 20px;">
             <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" style="width:50px;" />
             <br>Next.js
           </td>
-          <td align="center" style="padding: 10px;">
+          <td align="center" style="padding: 20px;">
             <img src="https://skillicons.dev/icons?i=django" alt="Django" style="width:50px;" />
             <br>Django
           </td>
-          <td align="center" style="padding: 10px;">
+          <td align="center" style="padding: 20px;">
             <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" style="width:50px;" />
             <br>jQuery
           </td>
@@ -459,8 +459,11 @@
   <h1 align="center">💡 GitHub Stats 💡</h1>
 
 
-  <p align="left">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muaztpm-yt&show_icons=true&locale=en&layout=compact" alt="muaztpm-yt" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muaztpm-yt&show_icons=true&locale=en" alt="muaztpm-yt" />
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muaztpm-yt&show_icons=true&locale=en&layout=compact" alt="muaztpm-yt" />&nbsp;
+  </p>
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=muaztpm-yt&show_icons=true&locale=en" alt="muaztpm-yt" />
   </p>
 
   <picture>
