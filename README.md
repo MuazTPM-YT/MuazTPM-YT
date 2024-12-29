@@ -158,29 +158,32 @@
       </table>
     </td>
     <!-- Backend Section -->
-    <td align="center" style="vertical-align: top; padding: 20px;">
-      <h2>Backend</h2>
-      <table align="center">
+    <td align="center" style="padding: 20px;">
+    <div style="text-align: center;">
+      <h2 style="margin: 0; font-size: 20px;">Backend</h2>
+      <table align="center" style="margin-top: 10px;">
         <tr>
-          <td align="center" style="padding: 20px;">
-            <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" style="width:50px;"/>
+          <td align="center" style="padding: 10px;">
+            <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" style="width:50px;" />
             <br>Node.js
           </td>
-          <td align="center" style="padding: 20px;">
-            <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" style="width:50px;"/>
+          <td align="center" style="padding: 10px;">
+            <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" style="width:50px;" />
             <br>Next.js
           </td>
-          <td align="center" style="padding: 20px;">
-            <img src="https://skillicons.dev/icons?i=django" alt="Django" style="width:50px;"/>
+          <td align="center" style="padding: 10px;">
+            <img src="https://skillicons.dev/icons?i=django" alt="Django" style="width:50px;" />
             <br>Django
           </td>
-          <td align="center" style="padding: 20px;">
-            <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" style="width:50px;"/>
+          <td align="center" style="padding: 10px;">
+            <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" style="width:50px;" />
             <br>jQuery
           </td>
         </tr>
       </table>
-    </td>
+    </div>
+  </td>
+
   </tr>
   <tr>
     <!-- Databases Section -->
