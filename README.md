@@ -36,7 +36,7 @@
 
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=muaztpm-yt" alt="muaztpm-yt" />
+      <img src="https://github-profile-trophy.vercel.app/?username=MuazTPM-YT&theme=onedark" alt="muaztpm-yt" />
     </a>
   </p>
 
