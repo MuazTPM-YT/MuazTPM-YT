@@ -264,6 +264,8 @@
   </tr>
 </table>
 
+<br/>
+
 <h1 align="center">⚒️ Machine Learning ⚒️</h1>
 <table align="center" style="border-collapse: collapse; border-spacing: 0;">
   <tr>
@@ -290,6 +292,8 @@
   </tr>
 </table>
 
+<br/>
+
 <h1 align="center">⚒️ Game Development ⚒️</h1>
 <table align="center" style="border-collapse: collapse; border-spacing: 0;">
   <tr>
@@ -310,6 +314,8 @@
     </td>
   </tr>
 </table>
+
+<br/>
 
 <h1 align="center">⚒️ Maintenance and Operational Tools ⚒️</h1>
 <table align="center" style="border-collapse: collapse; border-spacing: 0;">
@@ -351,6 +357,8 @@
     </td>
   </tr>
 </table>
+
+<br/>
 
 <h1 align="center">⚒️ Mastery of Diverse Software and Tools ⚒️</h1>
 <table align="center" style="border-collapse: collapse; border-spacing: 0;">
@@ -450,6 +458,7 @@
   </tr>
 </table>
 
+<br/>
 
   <div align="center">
     <h1 align="center">💡 GitHub Stats 💡</h1>
