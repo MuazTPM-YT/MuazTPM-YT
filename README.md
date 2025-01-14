@@ -243,6 +243,8 @@
   </tr>
 </table>
 
+<br/>
+
 <h1 align="center">⚒️ Mobile Application Development ⚒️</h1>
 <table align="center" style="border-collapse: collapse; border-spacing: 0;">
   <tr>
