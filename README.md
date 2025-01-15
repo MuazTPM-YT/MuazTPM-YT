@@ -65,7 +65,7 @@
 
   <br/>
 
-  <h1 align="center">⚒️ Languages I Code In ⚒️</h1>
+  <h1 align="center">👨🏻‍💻 Languages I Code In 👨🏻‍💻</h1>
   <table align="center" style="border-collapse: collapse; border-spacing: 0;">
     <tr>
       <td align="center" style="border: none; padding: 20px;">
@@ -108,7 +108,7 @@
 
   <br/>
 
-<h1 align="center">⚒️ Tech Stack ⚒️</h1>
+<h1 align="center">🎓 Tech Stack 🎓</h1>
 
 <table align="center" width="100%">
   <tr>
@@ -247,7 +247,7 @@
 
 <br/>
 
-<h1 align="center">⚒️ Mobile Application Development ⚒️</h1>
+<h1 align="center">📱 Mobile Application Development 📱</h1>
 <table align="center" style="border-collapse: collapse; border-spacing: 0;">
   <tr>
     <td align="center" style="border: none; padding: 20px;">
@@ -270,7 +270,7 @@
 
 <br/>
 
-<h1 align="center">⚒️ Machine Learning ⚒️</h1>
+<h1 align="center">🤖 Machine Learning 🤖</h1>
 <table align="center" style="border-collapse: collapse; border-spacing: 0;">
   <tr>
     <td align="center" style="border: none; padding: 20px;">
@@ -298,7 +298,7 @@
 
 <br/>
 
-<h1 align="center">⚒️ Game Development ⚒️</h1>
+<h1 align="center">🎮 Game Development 🎮</h1>
 <table align="center" style="border-collapse: collapse; border-spacing: 0;">
   <tr>
     <td align="center" style="border: none; padding: 20px;">
