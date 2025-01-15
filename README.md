@@ -364,7 +364,7 @@
 
 <br/>
 
-<h1 align="center">⚒️ Mastery of Diverse Software and Tools ⚒️</h1>
+<h1 align="center">👑 Mastery of Diverse Software and Tools 👑</h1>
 <table align="center" style="border-collapse: collapse; border-spacing: 0;">
   <tr>
     <td align="center" style="border: none; padding: 20px;">
