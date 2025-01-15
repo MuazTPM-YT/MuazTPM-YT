@@ -9,7 +9,7 @@
   </h1>
 
   <h2 align="center">
-    I’m an undergraduate from India, who finds himself at the top of the innovation, creativity, and possibility iceberg.&nbsp;<br>&nbsp;
+    I’m an undergraduate from India, who finds himself at the top of the innovation, creativity, and possibility iceberg.<br>&nbsp;
   </h2>
 
   <div style="margin-top: 30px;">
