@@ -9,8 +9,10 @@
   </h1>
 
   <h2 align="center">
-    I’m an undergraduate from India, who finds himself at the top of the innovation, creativity, and possibility iceberg.<br>&nbsp;
+    I’m an undergraduate from India, who finds himself at the top of the innovation, creativity, and possibility iceberg.&nbsp;<br/>
   </h2>
+
+  <br/>
 
   <div style="margin-top: 30px;">
       <h3 align="left" style="margin-bottom: 15px; font-size: 20px; font-weight: bold;">Here are the things I love doing:</h3>
