@@ -10,7 +10,7 @@
 
   <h2 align="center" style="margin-bottom: 30px; font-size: 24px; line-height: 1.5;">
         I’m an undergraduate from India, who finds himself at the top of the innovation, creativity, and possibility iceberg. 
-    
+        <br/>
   </h2>
 
   <div style="margin-top: 30px;">
