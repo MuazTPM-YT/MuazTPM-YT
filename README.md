@@ -8,9 +8,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=2000&pause=1000&color=4169E1&center=true&vCenter=true&width=550&lines=I'm+Muaz+Ismail+Mohammed!" /> <br>
   </h1>
 
-  <h2 align="center">
+  <h1 align="center">
         I’m an undergraduate from India, who finds himself at the top of the innovation, creativity, and possibility iceberg. <br>
-  </h2>
+  </h1>
 
   <br>
 
