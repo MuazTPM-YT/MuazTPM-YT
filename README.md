@@ -9,7 +9,8 @@
   </h1>
 
   <h2 align="center">
-    I’m an undergraduate from India, who finds himself at the top of the innovation, creativity, and possibility iceberg.<br/>&nbsp;
+    I am an undergraduate from India and have spent considerable time as a data scientist, application developer, and scientific computing engineer working with large data sets using both Artificial Intelligence andMachine Learning along with Data Structures and Algorithms.
+    I have hands on software, web and game development experience which I can fuse together with my logic to create unparalleled digital experiences.<br/>&nbsp;
   </h2>
 
   <br/>
