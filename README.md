@@ -29,7 +29,7 @@
 
   <div style="margin-bottom: 30px;">
       <p>
-      📫 How you can reach me: <a href="mailto:muazismailmohammed@gmail.com">muazismailmohammed@gmail.com</a>
+      📫 How you can reach me: <a href="mailto:6muazx@gmail.com">6muazx@gmail.com</a>
       </p>
       <p>🔥 Fun fact: <strong>I can spin both my fingers in opposite directions simultaneously!</strong></p>
   </div>
