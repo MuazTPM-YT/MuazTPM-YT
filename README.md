@@ -176,14 +176,6 @@
             <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" style="width:50px;" />
             <br>Next.js
           </td>
-          <td align="center" style="padding: 20px;">
-            <img src="https://skillicons.dev/icons?i=django" alt="Django" style="width:50px;" />
-            <br>Django
-          </td>
-          <td align="center" style="padding: 20px;">
-            <img src="https://skillicons.dev/icons?i=java" alt="HTML" style="width:50px;"/>
-            <br>Java
-          </td>
         </tr>
         <tr>
           <td align="center" style="padding: 20px;">
@@ -194,6 +186,17 @@
               <img src="https://skillicons.dev/icons?i=vite" alt="Vite" style="width:50px;"/>
               <br>Vite
           </td>
+        </tr>
+        <tr>
+          <td align="center" style="padding: 20px;">
+            <img src="https://skillicons.dev/icons?i=django" alt="Django" style="width:50px;" />
+            <br>Django
+          </td>
+          <td align="center" style="padding: 20px;">
+            <img src="https://skillicons.dev/icons?i=java" alt="HTML" style="width:50px;"/>
+            <br>Java
+          </td>
+        </tr>
       </table>
     </div>
   </td>
