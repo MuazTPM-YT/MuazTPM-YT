@@ -238,6 +238,10 @@
               <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" style="width:50px;"/>
               <br>Firebase
             </td>
+            <td align="center" style="padding: 20px;">
+              <img src="https://skillicons.dev/icons?i=heroku" alt="Heroku" style="width:50px;"/>
+              <br>Heroku
+            </td>
           </tr>
         </table>
       </div>
