@@ -125,6 +125,11 @@
               <img src="https://skillicons.dev/icons?i=js" alt="CSS" style="width:50px;"/>
               <br>JavaScript
             </td>
+            <td align="center" style="border: none; padding: 20px;">
+              <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
+              <br>
+              TypeScript
+            </td>
             <td align="center" style="padding: 20px;">
               <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" style="width:50px;"/>
               <br>Bootstrap
@@ -147,6 +152,10 @@
               <img src="https://skillicons.dev/icons?i=threejs" alt="threejs" style="width:50px;"/>
               <br>Threejs
             </td>
+            <td align="center" style="padding: 20px;">
+            <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" style="width:50px;" />
+            <br>jQuery
+          </td>
           </tr>
         </table>
       </div>
@@ -168,10 +177,6 @@
           <td align="center" style="padding: 20px;">
             <img src="https://skillicons.dev/icons?i=django" alt="Django" style="width:50px;" />
             <br>Django
-          </td>
-          <td align="center" style="padding: 20px;">
-            <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" style="width:50px;" />
-            <br>jQuery
           </td>
         </tr>
         <tr>
