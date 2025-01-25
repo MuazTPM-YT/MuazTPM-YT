@@ -239,6 +239,8 @@
               <img src="https://skillicons.dev/icons?i=azure" alt="Azure" style="width:50px;"/>
               <br>Azure
             </td>
+          </tr>
+          <tr>
             <td align="center" style="padding: 20px;">
               <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" style="width:50px;"/>
               <br>Firebase
