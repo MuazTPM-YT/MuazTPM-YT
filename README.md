@@ -192,6 +192,10 @@
               <img src="https://skillicons.dev/icons?i=qt" alt="Qt" style="width:50px;"/>
               <br>Qt
             </td>
+          <td align="center" style="padding: 20px;">
+              <img src="https://skillicons.dev/icons?i=vite" alt="Vite" style="width:50px;"/>
+              <br>Vite
+          </td>
       </table>
     </div>
   </td>
