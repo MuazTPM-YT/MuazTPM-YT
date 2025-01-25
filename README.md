@@ -149,8 +149,8 @@
               <br>Tailwind
             </td>
             <td align="center" style="padding: 20px;">
-              <img src="https://skillicons.dev/icons?i=qt" alt="Qt" style="width:50px;"/>
-              <br>Qt
+              <img src="https://skillicons.dev/icons?i=threejs" alt="threejs" style="width:50px;"/>
+              <br>Threejs
             </td>
           </tr>
         </table>
