@@ -89,11 +89,6 @@
         C
       </td>
       <td align="center" style="border: none; padding: 20px;">
-        <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
-        <br>
-        C#
-      </td>
-      <td align="center" style="border: none; padding: 20px;">
         <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
         <br>
         C++
@@ -183,10 +178,6 @@
           <td align="center" style="padding: 20px;">
             <img src="https://skillicons.dev/icons?i=java" alt="HTML" style="width:50px;"/>
             <br>Java
-          </td>
-          <td align="center" style="padding: 20px;">
-            <img src="https://skillicons.dev/icons?i=flask" alt="HTML" style="width:50px;">
-            <br>Flask
           </td>
           <td align="center" style="padding: 20px;">
               <img src="https://skillicons.dev/icons?i=qt" alt="Qt" style="width:50px;"/>
