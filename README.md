@@ -195,6 +195,10 @@
               <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" style="width: 50px; height: 50px;" />
               <br><span style="display: block; margin-top: 5px;">SQLite</span>
             </td>
+            <td align="center" style="padding: 15px; text-align: center;">
+              <img src="https://skillicons.dev/icons?i=mysql" alt="SQLite" style="width: 50px; height: 50px;" />
+              <br><span style="display: block; margin-top: 5px;">MySQl</span>
+            </td>
           </tr>
         </table>
       </div>
