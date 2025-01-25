@@ -130,10 +130,6 @@
               <br>
               TypeScript
             </td>
-            <td align="center" style="padding: 20px;">
-              <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" style="width:50px;"/>
-              <br>Bootstrap
-            </td>
           </tr>
           <tr>
             <td align="center" style="padding: 20px;">
@@ -152,10 +148,16 @@
               <img src="https://skillicons.dev/icons?i=threejs" alt="threejs" style="width:50px;"/>
               <br>Threejs
             </td>
+          </tr>
+          <tr>
+            <td align="center" style="padding: 20px;">
+              <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" style="width:50px;"/>
+              <br>Bootstrap
+            </td>
             <td align="center" style="padding: 20px;">
             <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" style="width:50px;" />
             <br>jQuery
-          </td>
+            </td>
           </tr>
         </table>
       </div>
@@ -178,12 +180,12 @@
             <img src="https://skillicons.dev/icons?i=django" alt="Django" style="width:50px;" />
             <br>Django
           </td>
-        </tr>
-        <tr>
           <td align="center" style="padding: 20px;">
             <img src="https://skillicons.dev/icons?i=java" alt="HTML" style="width:50px;"/>
             <br>Java
           </td>
+        </tr>
+        <tr>
           <td align="center" style="padding: 20px;">
               <img src="https://skillicons.dev/icons?i=qt" alt="Qt" style="width:50px;"/>
               <br>Qt
