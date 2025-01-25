@@ -217,6 +217,8 @@
               <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" style="width:50px;"/>
               <br>SQLite
             </td>
+          </tr>
+          <tr>
             <td align="center" style="padding: 20px;">
               <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" style="width:50px;"/>
               <br>MySQL
