@@ -1,4 +1,70 @@
-<!DOCTYPE html>
+<head>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+</head>
+
+<div style="font-family: 'Poppins', sans-serif;">
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=2000&pause=1000&color=4169E1&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B" /> <br>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=2000&pause=1000&color=4169E1&center=true&vCenter=true&width=550&lines=I'm+Muaz+Ismail+Mohammed!" /> <br>
+  </h1>
+
+  <h2 align="center">
+    I am an undergraduate from India and have spent considerable time as a data scientist, application developer, and scientific computing engineer working with large data sets using both Artificial Intelligence and Machine Learning along with Data Structures and Algorithms.<br/>&nbsp;
+  </h2>
+
+  <br/>
+
+  <div style="margin-top: 30px;">
+      <h3 align="left" style="margin-bottom: 15px; font-size: 20px; font-weight: bold;">Here are the things I love doing:</h3>
+      <ul style="padding-left: 20px; font-size: 18px; line-height: 1.8;">
+          <li>📊 Exploring the realms of data science.</li>
+          <li>🧠 Pushing forward with artificial intelligence and machine learning.</li>
+          <li>📚 Building splendid software solutions.</li>
+          <li>👩🏿 Designing web applications of high quality.</li>
+          <li>🛠️ Crafting efficient algorithms, and mastering data structures.</li>
+      </ul>
+  </div>
+
+
+  <div style="margin-bottom: 30px;">
+      <p>
+      📫 How you can reach me: <a href="mailto:6muazx@gmail.com">6muazx@gmail.com</a>
+      </p>
+      <p>🔥 Fun fact: <strong>I can spin both my fingers in opposite directions simultaneously!</strong></p>
+  </div>
+
+  <br/>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=muaztpm-yt&label=Profile%20views&color=0e75b6&style=flat" alt="muaztpm-yt" />
+  </p>
+
+  <h1 align="center">🔗 Connect with Me 🔗</h1>
+  <table align="center" style="border-collapse: collapse; border-spacing: 0;">
+    <tr>
+      <td align="center" style="border: none; padding: 20px;">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+        <br>
+        LinkedIn
+      </td>
+      <td align="center" style="border: none; padding: 20px;">
+        <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+        <br>
+        Gmail
+      </td>
+      <td align="center" style="border: none; padding: 20px;">
+        <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+        <br>
+        Discord
+      </td>
+    </tr>
+  </table>
+
+  <div align="center">
+
+  <br/>
+
+  <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -8,9 +74,9 @@
     body {
       font-family: 'Poppins', sans-serif;
       margin: 20px;
+      text-align: center; /* Center all content */
     }
     h1 {
-      text-align: center;
       margin-top: 40px;
     }
     table {
@@ -139,24 +205,24 @@
     </tr>
   </table>
 
-<br/>
-
-  <div align="center">
-    <h1 align="center">💡 GitHub Stats 💡</h1>
-    <p align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muaztpm-yt&show_icons=true&locale=en&layout=compact" alt="muaztpm-yt" />&nbsp;
+  <div>
+    <h1>💡 GitHub Stats 💡</h1>
+    <p>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muaztpm-yt&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
     </p>
-    <p align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=muaztpm-yt&show_icons=true&locale=en" alt="muaztpm-yt" />
+    <p>
+      <img src="https://github-readme-stats.vercel.app/api?username=muaztpm-yt&show_icons=true&locale=en" alt="GitHub Stats" />
     </p>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-      <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-    </picture><h1 align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=2500&pause=1000&color=4169E1&center=true&vCenter=true&width=550&height=70&lines=Goodbye+World!+%F0%9F%91%8B""https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=2000&pause=1000&color=4169E1&center=true&vCenter=true&width=550&lines=Goodbye+World!+%F0%9F%91%8B" />
+      <img src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" alt="github-snake" />
+    </picture>
+    <h1>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=2500&pause=1000&color=4169E1&center=true&vCenter=true&width=550&height=70&lines=Goodbye+World!+%F0%9F%91%8B" alt="Goodbye World!" />
     </h1>
-</div>
+  </div>
 
 </body>
 </html>
+
