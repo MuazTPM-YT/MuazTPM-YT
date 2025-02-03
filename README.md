@@ -148,6 +148,10 @@
         <br>Next.js
       </td>
       <td align="center" style="border: none; padding: 20px;">
+        <img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" />
+        <br>Three.js
+      </td>
+      <td align="center" style="border: none; padding: 20px;">
         <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" />
         <br>Tailwind
       </td>
