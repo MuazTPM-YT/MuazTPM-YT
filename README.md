@@ -263,29 +263,6 @@
 
 <br/>
 
-<h1 align="center">🎮 Game Development 🎮</h1>
-<table align="center" style="border-collapse: collapse; border-spacing: 0;">
-  <tr>
-    <td align="center" style="border: none; padding: 20px;">
-      <img src="https://skillicons.dev/icons?i=unity" alt="Unity" />
-      <br>
-      Unity
-    </td>
-    <td align="center" style="border: none; padding: 20px;">
-      <img src="https://skillicons.dev/icons?i=lua" alt="Lua" />
-      <br>
-      Lua
-    </td>
-    <td align="center" style="border: none; padding: 20px;">
-      <img src="https://skillicons.dev/icons?i=robloxstudio" alt="Roblox Studio" />
-      <br>
-      Roblox Studio
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 <h1 align="center">⚒️ Maintenance and Operational Tools ⚒️</h1>
 <table align="center" style="border-collapse: collapse; border-spacing: 0;">
   <tr>
