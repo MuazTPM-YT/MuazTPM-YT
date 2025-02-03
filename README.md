@@ -68,14 +68,14 @@
   <table align="center" style="border-collapse: collapse; border-spacing: 0;">
     <tr>
       <td align="center" style="border: none; padding: 20px;">
-        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
-        <br>
-        JavaScript
-      </td>
-      <td align="center" style="border: none; padding: 20px;">
         <img src="https://skillicons.dev/icons?i=python" alt="Python" />
         <br>
         Python
+      </td>
+      <td align="center" style="border: none; padding: 20px;">
+        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
+        <br>
+        JavaScript
       </td>
       <td align="center" style="border: none; padding: 20px;">
         <img src="https://skillicons.dev/icons?i=c" alt="C" />
@@ -119,12 +119,12 @@
               <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="width: 50px; height: 50px;" />
               <br><span style="display: block; margin-top: 5px;">JavaScript</span>
             </td>
-          </tr>
-          <tr>
             <td align="center" style="padding: 15px; text-align: center;">
               <img src="https://skillicons.dev/icons?i=react" alt="React" style="width: 50px; height: 50px;" />
               <br><span style="display: block; margin-top: 5px;">React</span>
             </td>
+          </tr>
+          <tr>
             <td align="center" style="padding: 15px; text-align: center;">
               <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" style="width: 50px; height: 50px;" />
               <br><span style="display: block; margin-top: 5px;">Next.js</span>
