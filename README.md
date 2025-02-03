@@ -233,30 +233,6 @@
   </tr>
 </table>
 
-
-<br/>
-
-<h1 align="center">📱 Mobile Application Development 📱</h1>
-<table align="center" style="border-collapse: collapse; border-spacing: 0;">
-  <tr>
-    <td align="center" style="border: none; padding: 20px;">
-      <img src="https://skillicons.dev/icons?i=dart" alt="Dart" />
-      <br>
-      Dart
-    </td>
-    <td align="center" style="border: none; padding: 20px;">
-      <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
-      <br>
-      Flutter
-    </td>
-    <td align="center" style="border: none; padding: 20px;">
-      <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
-      <br>
-      Kotlin
-    </td>
-  </tr>
-</table>
-
 <br/>
 
 <h1 align="center">🤖 Machine Learning 🤖</h1>
