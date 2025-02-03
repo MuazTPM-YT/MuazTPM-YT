@@ -9,7 +9,7 @@
   </h1>
 
   <h2 align="center">
-    I am an undergraduate from India as a specialized Data Science Engineer, Application Developer, and Full-Stack Developer working with large data sets using Machine Learning<br/>&nbsp;
+    I am an undergraduate from India specializing in Data Science Engineering, Application Development, and Full-Stack Development working with large data sets using Machine Learning<br/>&nbsp;
   </h2>
 
   <div style="margin-top: 30px;">
