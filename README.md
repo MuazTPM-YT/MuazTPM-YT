@@ -64,53 +64,61 @@
 
   <br/>
 
-  <h1>👨🏻‍💻 Languages I Code In 👨🏻‍💻</h1>
-  <table>
-    <tr>
-      <td align="center" style="border: none; padding: 20px;">
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-        <br>Python
-      </td>
-      <td align="center" style="border: none; padding: 20px;">
-        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
-        <br>JavaScript
-      </td>
-      <td align="center" style="border: none; padding: 20px;">
-        <img src="https://skillicons.dev/icons?i=c" alt="C" />
-        <br>C
-      </td>
-      <td align="center" style="border: none; padding: 20px;">
-        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
-        <br>C++
-      </td>
-      <td align="center" style="border: none; padding: 20px;">
-        <img src="https://skillicons.dev/icons?i=java" alt="Java" />
-        <br>Java
-      </td>
-    </tr>
-  </table>
+  <table align="center">
+  <tr>
+    <td valign="top">
+      <h1 align="center">👨🏻‍💻 Languages I Code In 👨🏻‍💻</h1>
+      <table align="center">
+        <tr>
+          <td align="center" style="border: none; padding: 20px;">
+            <img src="https://skillicons.dev/icons?i=python" alt="Python" /><br>
+            Python
+          </td>
+          <td align="center" style="border: none; padding: 20px;">
+            <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /><br>
+            JavaScript
+          </td>
+          <td align="center" style="border: none; padding: 20px;">
+            <img src="https://skillicons.dev/icons?i=c" alt="C" /><br>
+            C
+          </td>
+          <td align="center" style="border: none; padding: 20px;">
+            <img src="https://skillicons.dev/icons?i=cpp" alt="C++" /><br>
+            C++
+          </td>
+          <td align="center" style="border: none; padding: 20px;">
+            <img src="https://skillicons.dev/icons?i=java" alt="Java" /><br>
+            Java
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td valign="top">
+      <h1 align="center">🤖 Machine Learning 🤖</h1>
+      <table align="center">
+        <tr>
+          <td align="center" style="border: none; padding: 20px;">
+            <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" /><br>
+            PyTorch
+          </td>
+          <td align="center" style="border: none; padding: 20px;">
+            <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" /><br>
+            OpenCV
+          </td>
+          <td align="center" style="border: none; padding: 20px;">
+            <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" /><br>
+            TensorFlow
+          </td>
+          <td align="center" style="border: none; padding: 20px;">
+            <img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" /><br>
+            scikit-learn
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-  <h1>🤖 Machine Learning 🤖</h1>
-  <table>
-    <tr>
-      <td align="center" style="border: none; padding: 20px;">
-        <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />
-        <br>PyTorch
-      </td>
-      <td align="center" style="border: none; padding: 20px;">
-        <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" />
-        <br>OpenCV
-      </td>
-      <td align="center" style="border: none; padding: 20px;">
-        <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" />
-        <br>TensorFlow
-      </td>
-      <td align="center" style="border: none; padding: 20px;">
-        <img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" />
-        <br>scikit-learn
-      </td>
-    </tr>
-  </table>
 
   <h1>🌐 Front-End & Back-End 🌐</h1>
   <table>
@@ -131,8 +139,6 @@
         <img src="https://skillicons.dev/icons?i=react" alt="React" />
         <br>React
       </td>
-    </tr>
-    <tr>
       <td align="center" style="border: none; padding: 20px;">
         <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
         <br>Next.js
@@ -149,7 +155,6 @@
         <img src="https://skillicons.dev/icons?i=django" alt="Django" />
         <br>Django
       </td>
-    </tr>
   </table>
 
   <h1>🗄️ Databases & Data Pipelines 🗄️</h1>
