@@ -184,6 +184,10 @@
         <br>AWS
       </td>
       <td align="center" style="border: none; padding: 20px;">
+        <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" />
+        <br>Vercel
+      </td>
+      <td align="center" style="border: none; padding: 20px;">
         <img src="https://skillicons.dev/icons?i=heroku" alt="Heroku" />
         <br>Heroku
       </td>
