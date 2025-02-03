@@ -168,7 +168,7 @@
 
   <br/>
 
-  <h1>🗄️ Databases & Data Pipelines 🗄️</h1>
+  <h1>🗄️ Databases, Cloud Services & Data Pipelines 🗄️</h1>
   <table>
     <tr>
       <td align="center" style="border: none; padding: 20px;">
