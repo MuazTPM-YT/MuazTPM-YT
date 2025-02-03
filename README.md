@@ -67,23 +67,23 @@
   <h1>👨🏻‍💻 Languages I Code In 👨🏻‍💻</h1>
   <table>
     <tr>
-      <td align="center" style="border: none; padding: 20px;
+      <td align="center" style="border: none; padding: 20px;">
         <img src="https://skillicons.dev/icons?i=python" alt="Python" />
         <br>Python
       </td>
-      <td align="center" style="border: none; padding: 20px;
+      <td align="center" style="border: none; padding: 20px;">
         <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
         <br>JavaScript
       </td>
-      <td align="center" style="border: none; padding: 20px;
+      <td align="center" style="border: none; padding: 20px;">
         <img src="https://skillicons.dev/icons?i=c" alt="C" />
         <br>C
       </td>
-      <td align="center" style="border: none; padding: 20px;
+      <td align="center" style="border: none; padding: 20px;">
         <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
         <br>C++
       </td>
-      <td align="center" style="border: none; padding: 20px;
+      <td align="center" style="border: none; padding: 20px;">
         <img src="https://skillicons.dev/icons?i=java" alt="Java" />
         <br>Java
       </td>
@@ -93,19 +93,19 @@
   <h1>🤖 Machine Learning 🤖</h1>
   <table>
     <tr>
-      <td align="center" style="border: none; padding: 20px;
+      <td align="center" style="border: none; padding: 20px;">
         <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />
         <br>PyTorch
       </td>
-      <td align="center" style="border: none; padding: 20px;
+      <td align="center" style="border: none; padding: 20px;">
         <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" />
         <br>OpenCV
       </td>
-      <td align="center" style="border: none; padding: 20px;
+      <td align="center" style="border: none; padding: 20px;">
         <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" />
         <br>TensorFlow
       </td>
-      <td align="center" style="border: none; padding: 20px;
+      <td align="center" style="border: none; padding: 20px;">
         <img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" />
         <br>scikit-learn
       </td>
@@ -115,37 +115,37 @@
   <h1>🌐 Front-End & Back-End 🌐</h1>
   <table>
     <tr>
-      <td align="center" style="border: none; padding: 20px;
+      <td align="center" style="border: none; padding: 20px;">
         <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
         <br>HTML
       </td>
-      <td align="center" style="border: none; padding: 20px;
+      <td align="center" style="border: none; padding: 20px;">
         <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
         <br>CSS
       </td>
-      <td align="center" style="border: none; padding: 20px;
+      <td align="center" style="border: none; padding: 20px;">
         <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
         <br>JavaScript
       </td>
-      <td align="center" style="border: none; padding: 20px;
+      <td align="center" style="border: none; padding: 20px;">
         <img src="https://skillicons.dev/icons?i=react" alt="React" />
         <br>React
       </td>
     </tr>
     <tr>
-      <td align="center" style="border: none; padding: 20px;
+      <td align="center" style="border: none; padding: 20px;">
         <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
         <br>Next.js
       </td>
-      <td align="center" style="border: none; padding: 20px;
+      <td align="center" style="border: none; padding: 20px;">
         <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" />
         <br>Tailwind
       </td>
-      <td align="center" style="border: none; padding: 20px;
+      <td align="center" style="border: none; padding: 20px;">
         <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
         <br>Node.js
       </td>
-      <td align="center" style="border: none; padding: 20px;
+      <td align="center" style="border: none; padding: 20px;">
         <img src="https://skillicons.dev/icons?i=django" alt="Django" />
         <br>Django
       </td>
@@ -155,19 +155,19 @@
   <h1>🗄️ Databases & Data Pipelines 🗄️</h1>
   <table>
     <tr>
-      <td align="center" style="border: none; padding: 20px;
+      <td align="center" style="border: none; padding: 20px;">
         <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
         <br>SQLite
       </td>
-      <td align="center" style="border: none; padding: 20px;
+      <td align="center" style="border: none; padding: 20px;">
         <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
         <br>MySQL
       </td>
-      <td align="center" style="border: none; padding: 20px;
+      <td align="center" style="border: none; padding: 20px;">
         <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
         <br>AWS
       </td>
-      <td align="center" style="border: none; padding: 20px;
+      <td align="center" style="border: none; padding: 20px;">
         <img src="https://skillicons.dev/icons?i=heroku" alt="Heroku" />
         <br>Heroku
       </td>
