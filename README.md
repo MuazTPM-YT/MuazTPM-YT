@@ -67,23 +67,23 @@
   <h1>👨🏻‍💻 Languages I Code In 👨🏻‍💻</h1>
   <table>
     <tr>
-      <td>
+      <td align="center" style="border: none; padding: 20px;
         <img src="https://skillicons.dev/icons?i=python" alt="Python" />
         <br>Python
       </td>
-      <td>
+      <td align="center" style="border: none; padding: 20px;
         <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
         <br>JavaScript
       </td>
-      <td>
+      <td align="center" style="border: none; padding: 20px;
         <img src="https://skillicons.dev/icons?i=c" alt="C" />
         <br>C
       </td>
-      <td>
+      <td align="center" style="border: none; padding: 20px;
         <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
         <br>C++
       </td>
-      <td>
+      <td align="center" style="border: none; padding: 20px;
         <img src="https://skillicons.dev/icons?i=java" alt="Java" />
         <br>Java
       </td>
@@ -93,19 +93,19 @@
   <h1>🤖 Machine Learning 🤖</h1>
   <table>
     <tr>
-      <td>
+      <td align="center" style="border: none; padding: 20px;
         <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />
         <br>PyTorch
       </td>
-      <td>
+      <td align="center" style="border: none; padding: 20px;
         <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" />
         <br>OpenCV
       </td>
-      <td>
+      <td align="center" style="border: none; padding: 20px;
         <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" />
         <br>TensorFlow
       </td>
-      <td>
+      <td align="center" style="border: none; padding: 20px;
         <img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" />
         <br>scikit-learn
       </td>
@@ -115,37 +115,37 @@
   <h1>🌐 Front-End & Back-End 🌐</h1>
   <table>
     <tr>
-      <td>
+      <td align="center" style="border: none; padding: 20px;
         <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
         <br>HTML
       </td>
-      <td>
+      <td align="center" style="border: none; padding: 20px;
         <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
         <br>CSS
       </td>
-      <td>
+      <td align="center" style="border: none; padding: 20px;
         <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
         <br>JavaScript
       </td>
-      <td>
+      <td align="center" style="border: none; padding: 20px;
         <img src="https://skillicons.dev/icons?i=react" alt="React" />
         <br>React
       </td>
     </tr>
     <tr>
-      <td>
+      <td align="center" style="border: none; padding: 20px;
         <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
         <br>Next.js
       </td>
-      <td>
+      <td align="center" style="border: none; padding: 20px;
         <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" />
         <br>Tailwind
       </td>
-      <td>
+      <td align="center" style="border: none; padding: 20px;
         <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
         <br>Node.js
       </td>
-      <td>
+      <td align="center" style="border: none; padding: 20px;
         <img src="https://skillicons.dev/icons?i=django" alt="Django" />
         <br>Django
       </td>
@@ -155,19 +155,19 @@
   <h1>🗄️ Databases & Data Pipelines 🗄️</h1>
   <table>
     <tr>
-      <td>
+      <td align="center" style="border: none; padding: 20px;
         <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
         <br>SQLite
       </td>
-      <td>
+      <td align="center" style="border: none; padding: 20px;
         <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
         <br>MySQL
       </td>
-      <td>
+      <td align="center" style="border: none; padding: 20px;
         <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
         <br>AWS
       </td>
-      <td>
+      <td align="center" style="border: none; padding: 20px;
         <img src="https://skillicons.dev/icons?i=heroku" alt="Heroku" />
         <br>Heroku
       </td>
@@ -191,7 +191,4 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=2500&pause=1000&color=4169E1&center=true&vCenter=true&width=550&height=70&lines=Goodbye+World!+%F0%9F%91%8B" alt="Goodbye World!" />
     </h1>
   </div>
-
-</body>
-</html>
 
