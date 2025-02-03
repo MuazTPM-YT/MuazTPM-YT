@@ -9,7 +9,7 @@
   </h1>
 
   <h2 align="center">
-    I am an undergraduate from India and have spent considerable time as a data scientist, application developer, and scientific computing engineer working with large data sets using both Artificial Intelligence and Machine Learning along with Data Structures and Algorithms.<br/>&nbsp;
+    I am an undergraduate from India and I am a Data Science Engineer, Application Developer, and Full-Stack Developer working with large data sets using Machine Learning<br/>&nbsp;
   </h2>
 
   <br/>
@@ -20,7 +20,7 @@
           <li>📊 Exploring the realms of data science.</li>
           <li>🧠 Pushing forward with artificial intelligence and machine learning.</li>
           <li>📚 Building splendid software solutions.</li>
-          <li>👩🏿 Designing web applications of high quality.</li>
+          <li>👩🏿 Designing high quality web applications.</li>
           <li>🛠️ Crafting efficient algorithms, and mastering data structures.</li>
       </ul>
   </div>
@@ -51,6 +51,11 @@
         <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
         <br>
         Gmail
+      </td>
+      <td align="center" style="border: none; padding: 20px;">
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+        <br>
+        GitHub
       </td>
       <td align="center" style="border: none; padding: 20px;">
         <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
