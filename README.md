@@ -192,10 +192,6 @@
   <br/>
   
   <div>
-    <h1>💡 GitHub Stats 💡</h1>
-    <p>
-      <img src="https://github-readme-stats.vercel.app/api?username=muaztpm-yt&show_icons=true&locale=en" alt="GitHub Stats" />
-    </p>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
