@@ -159,6 +159,10 @@
         <img src="https://skillicons.dev/icons?i=django" alt="Django" />
         <br>Django
       </td>
+      <td align="center" style="border: none; padding: 20px;">
+        <img src="https://skillicons.dev/icons?i=qt" alt="Qt" />
+        <br>Qt
+      </td>
   </table>
 
   <br/>
