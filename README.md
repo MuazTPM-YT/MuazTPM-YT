@@ -296,11 +296,6 @@
       <br>
       Arduino
     </td>
-    <td align="center" style="border: none; padding: 20px;">
-      <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
-      <br>
-      Bash
-    </td>
   </tr>
 </table>
 
