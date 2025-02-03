@@ -64,37 +64,6 @@
 
   <br/>
 
-  <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <title>My Profile</title>
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
-  <style>
-    body {
-      font-family: 'Poppins', sans-serif;
-      margin: 20px;
-      text-align: center; /* Center all content */
-    }
-    h1 {
-      margin-top: 40px;
-    }
-    table {
-      margin: 0 auto 40px auto;
-      border-collapse: collapse;
-    }
-    td {
-      text-align: center;
-      padding: 15px;
-    }
-    td img {
-      width: 50px;
-      height: 50px;
-    }
-  </style>
-</head>
-<body>
-
   <h1>👨🏻‍💻 Languages I Code In 👨🏻‍💻</h1>
   <table>
     <tr>
