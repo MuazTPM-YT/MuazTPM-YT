@@ -12,8 +12,6 @@
     I am an undergraduate from India as a specialized Data Science Engineer, Application Developer, and Full-Stack Developer working with large data sets using Machine Learning<br/>&nbsp;
   </h2>
 
-  <br/>
-
   <div style="margin-top: 30px;">
       <h3 align="left" style="margin-bottom: 15px; font-size: 20px; font-weight: bold;">Here are the things I love doing:</h3>
       <ul style="padding-left: 20px; font-size: 18px; line-height: 1.8;">
@@ -124,6 +122,7 @@
   </tr>
 </table>
 
+  <br/>
 
   <h1>🌐 Front-End & Back-End 🌐</h1>
   <table>
@@ -162,6 +161,8 @@
       </td>
   </table>
 
+  <br/>
+
   <h1>🗄️ Databases & Data Pipelines 🗄️</h1>
   <table>
     <tr>
@@ -184,6 +185,8 @@
     </tr>
   </table>
 
+  <br/>
+  
   <div>
     <h1>💡 GitHub Stats 💡</h1>
     <p>
