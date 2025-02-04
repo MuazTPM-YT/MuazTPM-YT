@@ -37,32 +37,6 @@
     <img src="https://komarev.com/ghpvc/?username=muaztpm-yt&label=Profile%20views&color=0e75b6&style=flat" alt="muaztpm-yt" />
   </p>
 
-  <h1 align="center">🔗 Connect with Me 🔗</h1>
-  <table align="center" style="border-collapse: collapse; border-spacing: 0;">
-    <tr>
-      <td align="center" style="border: none; padding: 20px;">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-        <br>
-        LinkedIn
-      </td>
-      <td align="center" style="border: none; padding: 20px;">
-        <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-        <br>
-        Gmail
-      </td>
-      <td align="center" style="border: none; padding: 20px;">
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-        <br>
-        GitHub
-      </td>
-      <td align="center" style="border: none; padding: 20px;">
-        <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
-        <br>
-        Discord
-      </td>
-    </tr>
-  </table>
-
   <div align="center">
 
   <br/>
