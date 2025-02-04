@@ -37,8 +37,6 @@
     <img src="https://komarev.com/ghpvc/?username=muaztpm-yt&label=Profile%20views&color=0e75b6&style=flat" alt="muaztpm-yt" />
   </p>
 
-  <div align="center">
-
   <br/>
 
   <h1 align="center">🎓 Tech Stack 🎓</h1>
