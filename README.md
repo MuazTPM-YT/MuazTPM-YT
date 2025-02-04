@@ -12,7 +12,7 @@
     I am an undergraduate from India specializing in Data Science Engineering, Application Development, and Full-Stack Development working with large data sets using Machine Learning<br/>&nbsp;
   </h2>
 
-  <div style="margin-top: 30px;">
+  <div style="margin-top: 30px;", align="center">
       <h3 align="left" style="margin-bottom: 15px; font-size: 20px; font-weight: bold;">Here are the things I love doing:</h3>
       <ul style="padding-left: 20px; font-size: 18px; line-height: 1.8;">
           <li>📊 Exploring the realms of data science.</li>
