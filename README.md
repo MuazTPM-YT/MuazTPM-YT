@@ -39,6 +39,8 @@
 
   <div align="center">
 
+  <br/>
+
   <h1 align="center">🎓 Tech Stack 🎓</h1>
   <table align="center">
   <tr>
