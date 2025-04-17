@@ -135,6 +135,10 @@
         <br>Django
       </td>
       <td align="center" style="border: none; padding: 20px;">
+        <img src="https://skillicons.dev/icons?i=vite" alt="Vite" />
+        <br>Vite
+      </td>
+      <td align="center" style="border: none; padding: 20px;">
         <img src="https://skillicons.dev/icons?i=qt" alt="Qt" />
         <br>Qt
       </td>
