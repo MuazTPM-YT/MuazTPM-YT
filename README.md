@@ -154,6 +154,10 @@
         <br>MySQL
       </td>
       <td align="center" style="border: none; padding: 20px;">
+        <img src="https://skillicons.dev/icons?i=postgres	" alt="PostgreSQL" />
+        <br>PostgreSQL
+      </td>
+      <td align="center" style="border: none; padding: 20px;">
         <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
         <br>AWS
       </td>
