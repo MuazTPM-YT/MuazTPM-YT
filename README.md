@@ -31,12 +31,6 @@
       <p>🔥 Fun fact: <strong>I can spin both my fingers in opposite directions simultaneously!</strong></p>
   </div>
 
-  <br/>
-
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=muaztpm-yt&label=Profile%20views&color=0e75b6&style=flat" alt="muaztpm-yt" />
-  </p>
-
   <div align="center">
 
   <br/>
