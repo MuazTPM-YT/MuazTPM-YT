@@ -47,8 +47,8 @@
             Python
           </td>
           <td align="center" style="border: none; padding: 20px;">
-            <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /><br>
-            JavaScript
+            <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" /><br>
+            TypeScript
           </td>
           <td align="center" style="border: none; padding: 20px;">
             <img src="https://skillicons.dev/icons?i=c" alt="C" /><br>
@@ -105,8 +105,8 @@
         <br>CSS
       </td>
       <td align="center" style="border: none; padding: 20px;">
-        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
-        <br>JavaScript
+        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+        <br>TypeScript
       </td>
       <td align="center" style="border: none; padding: 20px;">
         <img src="https://skillicons.dev/icons?i=react" alt="React" />
