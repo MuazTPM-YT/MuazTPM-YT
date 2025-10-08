@@ -19,7 +19,7 @@
           <li>🧠 Pushing forward with artificial intelligence and machine learning.</li>
           <li>📚 Building splendid software solutions.</li>
           <li>👩🏿 Designing high quality web applications.</li>
-          <li>🛠️ Crafting efficient algorithms, and mastering data structures.</li>
+          <li>🛠️ Solving challenging problems in CodeForces, CodeChef and Leetcode.</li>
       </ul>
   </div>
 
