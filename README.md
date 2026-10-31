@@ -16,7 +16,7 @@ I'm a Computer Science undergraduate at A J Institute of Engineering and Technol
 
 <table>
   <tr>
-    <td align="center" width="21%"><img alt="Winner" src="assets/rank-winner.svg"></td>
+    <td align="center"><img alt="Winner" src="assets/rank-winner.svg"></td>
     <td><b>FOSS Hack 2026</b>, with a Rs 1,00,000 prize<br><a href="https://github.com/MuazTPM-YT/libre-mp">LibreMP</a>: we reverse-engineered Epson's projector protocol from packet captures, so Linux and macOS can cast too.</td>
   </tr>
   <tr>
