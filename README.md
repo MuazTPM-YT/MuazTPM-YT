@@ -9,24 +9,24 @@ I'm a Computer Science undergraduate at A J Institute of Engineering and Technol
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/title-achievements-dark.svg">
-    <img alt="Achievements" src="assets/title-achievements-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/title-v6-achievements-dark.svg">
+    <img alt="Achievements" src="assets/title-v6-achievements-light.svg">
   </picture>
 </p>
 
 <picture>
-  <source media="(max-width: 1011px) and (prefers-color-scheme: dark)" srcset="assets/achievements-narrow-dark.svg">
-  <source media="(max-width: 1011px)" srcset="assets/achievements-narrow-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/achievements-dark.svg">
-  <img alt="Winner, FOSS Hack 2026, with a Rs 1,00,000 prize, for LibreMP. Top 13, FortyGuard Hackathon 2026, among teams from 50+ countries, for SatAlite. Top 100 of 32,000+ participants, Meta PyTorch OpenEnv Hackathon, for Memex. Top 500 of 20,000+ participants, Amazon ML Challenge 2026. Top 10, national finalist, Sahyadri Coastal Innovation Hackathon 2026." src="assets/achievements-light.svg" width="100%">
+  <source media="(max-width: 1011px) and (prefers-color-scheme: dark)" srcset="assets/achievements-v6-narrow-dark.svg">
+  <source media="(max-width: 1011px)" srcset="assets/achievements-v6-narrow-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/achievements-v6-dark.svg">
+  <img alt="Winner, FOSS Hack 2026, with a Rs 1,00,000 prize, for LibreMP. Top 13, FortyGuard Hackathon 2026, among teams from 50+ countries, for SatAlite. Top 100 of 32,000+ participants, Meta PyTorch OpenEnv Hackathon, for Memex. Top 500 of 32,000+ participants, Amazon ML Challenge 2026. Top 10, national finalist, Sahyadri Coastal Innovation Hackathon 2026." src="assets/achievements-v6-light.svg" width="100%">
 </picture>
 
 <br><br>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/title-stack-dark.svg">
-    <img alt="Stack" src="assets/title-stack-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/title-v6-stack-dark.svg">
+    <img alt="Stack" src="assets/title-v6-stack-light.svg">
   </picture>
 </p>
 
@@ -41,8 +41,8 @@ I'm a Computer Science undergraduate at A J Institute of Engineering and Technol
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/title-contact-dark.svg">
-    <img alt="Contact" src="assets/title-contact-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/title-v6-contact-dark.svg">
+    <img alt="Contact" src="assets/title-v6-contact-light.svg">
   </picture>
 </p>
 
