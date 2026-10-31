@@ -47,7 +47,7 @@ I'm a Computer Science undergraduate at A J Institute of Engineering and Technol
 </p>
 
 <p align="center">
-  <a href="mailto:6muazx@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-v5-email-dark.svg"><img alt="Email: 6muazx@gmail.com" src="assets/contact-v5-email-light.svg" height="56"></picture></a>
-  <a href="https://www.linkedin.com/in/muaz-ismail-mohammed"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-v5-linkedin-dark.svg"><img alt="LinkedIn: in/muaz-ismail-mohammed" src="assets/contact-v5-linkedin-light.svg" height="56"></picture></a>
-  <a href="https://muaz-ismail-mohammed.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-v5-portfolio-dark.svg"><img alt="Portfolio: muaz-ismail-mohammed.vercel.app" src="assets/contact-v5-portfolio-light.svg" height="56"></picture></a>
+  <a href="mailto:6muazx@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-email-dark.svg"><img alt="Email: 6muazx@gmail.com" src="assets/contact-email-light.svg" height="56"></picture></a>
+  <a href="https://www.linkedin.com/in/muaz-ismail-mohammed"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-linkedin-dark.svg"><img alt="LinkedIn: in/muaz-ismail-mohammed" src="assets/contact-linkedin-light.svg" height="56"></picture></a>
+  <a href="https://muaz-ismail-mohammed.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-portfolio-dark.svg"><img alt="Portfolio: muaz-ismail-mohammed.vercel.app" src="assets/contact-portfolio-light.svg" height="56"></picture></a>
 </p>
