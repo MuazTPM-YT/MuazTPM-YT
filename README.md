@@ -21,7 +21,7 @@ I'm a Computer Science undergraduate at A J Institute of Engineering and Technol
   <img alt="Winner, FOSS Hack 2026, with a Rs 1,00,000 prize, for LibreMP. Top 13, FortyGuard Hackathon 2026, among teams from 50+ countries, for SatAlite. Top 100 of 32,000+ participants, Meta PyTorch OpenEnv Hackathon, for Memex. Top 500 of 20,000+ participants, Amazon ML Challenge 2026. Top 10, national finalist, Sahyadri Coastal Innovation Hackathon 2026." src="assets/achievements-light.svg" width="100%">
 </picture>
 
-<br>
+<br><br>
 
 <p align="center">
   <picture>
