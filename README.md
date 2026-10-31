@@ -49,6 +49,8 @@ I'm a Computer Science undergraduate at A J Institute of Engineering and Technol
 </p>
 
 <picture>
+  <source media="(max-width: 1011px) and (prefers-color-scheme: dark)" srcset="assets/stack-narrow-dark.svg">
+  <source media="(max-width: 1011px)" srcset="assets/stack-narrow-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-v3-dark.svg">
   <img alt="Languages: Rust, C++, C, Python, Java, TypeScript, JavaScript. Machine learning: PyTorch, TensorFlow, scikit-learn, vLLM, LangChain, OpenCV. Frameworks: React, Next.js, Django, FastAPI, Tauri, Three.js. Tools and cloud: Linux, Docker, Kubernetes, AWS, Celery, Git, LanceDB." src="assets/stack-v3-light.svg" width="100%">
 </picture>
