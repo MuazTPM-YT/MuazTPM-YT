@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Muaz Ismail Mohammed. From the mathematical model down to the code that runs it." src="assets/banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-v2-dark.svg">
+  <img alt="Muaz Ismail Mohammed. From the mathematical model down to the code that runs it." src="assets/banner-v2-light.svg" width="100%">
 </picture>
 
 I'm a Computer Science undergraduate at A J Institute of Engineering and Technology in Mangaluru (class of 2028, CGPA 9.08). I work mostly on systems-level software, such as optimization solvers, sandboxed code execution, inference engines and simulation, and I care most about correctness and performance.
@@ -16,8 +16,8 @@ Other results: top 500 in the Amazon ML Challenge 2026, top 10 national finalist
 ### Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-  <img alt="Languages: Rust, C++, C, Python, Java, TypeScript, JavaScript. Machine learning: PyTorch, TensorFlow, scikit-learn, vLLM, LangChain, OpenCV. Frameworks: React, Next.js, Django, FastAPI, Tauri, Three.js. Tools and cloud: Linux, Docker, Kubernetes, AWS, Celery, Git, LanceDB." src="assets/stack-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-v2-dark.svg">
+  <img alt="Languages: Rust, C++, C, Python, Java, TypeScript, JavaScript. Machine learning: PyTorch, TensorFlow, scikit-learn, vLLM, LangChain, OpenCV. Frameworks: React, Next.js, Django, FastAPI, Tauri, Three.js. Tools and cloud: Linux, Docker, Kubernetes, AWS, Celery, Git, LanceDB." src="assets/stack-v2-light.svg" width="100%">
 </picture>
 
 ### Contact
